@@ -9,7 +9,7 @@ If you don't already have node and all this stuff on your computer, I reccommend
 
 * [nodejs](http://nodejs.org/)
 * [npm](https://npmjs.org/)
-* [coffee-script](http://coffeescript.org/#installation)0
+* [coffee-script](http://coffeescript.org/#installation)
 
 ## Usage
 
