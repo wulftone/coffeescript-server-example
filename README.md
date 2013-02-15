@@ -5,7 +5,7 @@ A reaaally basic coffeescript server, for demonstration purposes only.
 
 ## Requirements
 
-If you don't already have node and all this stuff on your computer, I reccommend you install [nvm](https://github.com/creationix/nvm) before starting, though it is not strictly necessary.
+If you don't already have node and all this stuff on your computer, I recommend you install [nvm](https://github.com/creationix/nvm) before starting, though it is not strictly necessary.
 
 * [nodejs](http://nodejs.org/)
 * [npm](https://npmjs.org/)
